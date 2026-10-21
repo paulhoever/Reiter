@@ -4,9 +4,6 @@ Reiter bundles windows of different apps into one group with a shared tab bar, i
 [WindowTabs](https://github.com/leafOfTree/WindowTabs) on Windows. A calendar, a mail client and a terminal
 can share one frame: only the active window is shown, the others wait behind its tab.
 
-It is a GNOME Shell extension, because on Wayland only the compositor can put windows of other apps
-under one roof.
-
 ![Tab bar on top](docs/screenshots/top-tabs-dark.png)
 
 ## Features

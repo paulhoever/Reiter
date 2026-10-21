@@ -1,0 +1,105 @@
+# Translation template for Reiter.
+# This file is distributed under the same license as the Reiter package.
+msgid ""
+msgstr ""
+"Project-Id-Version: reiter\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Bar on top"
+msgstr ""
+
+msgid "Bar on the left"
+msgstr ""
+
+msgid "Bar on the right"
+msgstr ""
+
+msgid "Icons only"
+msgstr ""
+
+msgid "Icon and text"
+msgstr ""
+
+msgid "Always show previews"
+msgstr ""
+
+msgid "Compact (opens on hover)"
+msgstr ""
+
+msgid "Preview on hover"
+msgstr ""
+
+msgid "Forget saved group"
+msgstr ""
+
+msgid "Save group"
+msgstr ""
+
+msgid "Open in own window"
+msgstr ""
+
+msgid "Pin"
+msgstr ""
+
+msgid "Unpin"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close group"
+msgstr ""
+
+msgid "Minimize"
+msgstr ""
+
+msgid "Maximize"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Group automatically"
+msgstr ""
+
+msgid "Window classes"
+msgstr ""
+
+msgid "Remove rule"
+msgstr ""
+
+msgid "Add rule"
+msgstr ""
+
+msgid "Keyboard shortcuts"
+msgstr ""
+
+msgid "Group focused window (e.g. <Super>g)"
+msgstr ""
+
+msgid "Each rule is a list of window classes (WM_CLASS or app ID), separated by commas. When a window from the list opens, it joins the group of the others."
+msgstr ""
+
+msgid "This group"
+msgstr ""
+
+msgid "Rename group…"
+msgstr ""
+
+msgid "Use as default for new groups"
+msgstr ""
+
+msgid "Back to default settings"
+msgstr ""
+
+msgid "Group name"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+

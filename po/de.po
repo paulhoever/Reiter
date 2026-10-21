@@ -1,0 +1,105 @@
+# German translation for Reiter.
+msgid ""
+msgstr ""
+"Project-Id-Version: reiter\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Bar on top"
+msgstr "Leiste oben"
+
+msgid "Bar on the left"
+msgstr "Leiste links"
+
+msgid "Bar on the right"
+msgstr "Leiste rechts"
+
+msgid "Icons only"
+msgstr "Nur Icons"
+
+msgid "Icon and text"
+msgstr "Icon und Text"
+
+msgid "Always show previews"
+msgstr "Vorschau dauerhaft"
+
+msgid "Compact (opens on hover)"
+msgstr "Kompakt (öffnet beim Überfahren)"
+
+msgid "Preview on hover"
+msgstr "Vorschau beim Überfahren"
+
+msgid "Forget saved group"
+msgstr "Gespeicherte Gruppe vergessen"
+
+msgid "Save group"
+msgstr "Gruppe speichern"
+
+msgid "Open in own window"
+msgstr "In eigenem Fenster öffnen"
+
+msgid "Pin"
+msgstr "Anheften"
+
+msgid "Unpin"
+msgstr "Lösen"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Close group"
+msgstr "Gruppe schließen"
+
+msgid "Minimize"
+msgstr "Minimieren"
+
+msgid "Maximize"
+msgstr "Maximieren"
+
+msgid "Restore"
+msgstr "Wiederherstellen"
+
+msgid "Group automatically"
+msgstr "Automatisch bündeln"
+
+msgid "Window classes"
+msgstr "Fensterklassen"
+
+msgid "Remove rule"
+msgstr "Regel entfernen"
+
+msgid "Add rule"
+msgstr "Regel hinzufügen"
+
+msgid "Keyboard shortcuts"
+msgstr "Tastenkürzel"
+
+msgid "Group focused window (e.g. <Super>g)"
+msgstr "Fokussiertes Fenster bündeln (z. B. <Super>g)"
+
+msgid "Each rule is a list of window classes (WM_CLASS or app ID), separated by commas. When a window from the list opens, it joins the group of the others."
+msgstr "Jede Regel ist eine Liste von Fensterklassen (WM_CLASS oder App-ID), getrennt durch Kommas. Öffnet sich ein Fenster daraus, wandert es in die Gruppe der anderen."
+
+
+msgid "This group"
+msgstr "Diese Gruppe"
+
+msgid "Rename group…"
+msgstr "Gruppe umbenennen …"
+
+msgid "Use as default for new groups"
+msgstr "Für neue Gruppen als Standard"
+
+msgid "Back to default settings"
+msgstr "Zurück zu den Standardeinstellungen"
+
+msgid "Group name"
+msgstr "Gruppenname"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Rename"
+msgstr "Umbenennen"

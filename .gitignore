@@ -1,0 +1,4 @@
+reiter@hoever.cc/schemas/gschemas.compiled
+*.zip
+*.zip.sha256
+__pycache__/

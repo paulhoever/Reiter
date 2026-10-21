@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.reiter" path="/org/gnome/shell/extensions/reiter/">
+    <key name="group-with-previous" type="as">
+      <default><![CDATA[['<Super>g']]]></default>
+      <summary>Group focused window with the last used one</summary>
+    </key>
+    <key name="saved-button-layout" type="s">
+      <default>''</default>
+      <summary>Window button layout saved while groups exist</summary>
+    </key>
+    <key name="rules" type="as">
+      <default>[]</default>
+      <summary>Auto-grouping rules</summary>
+      <description>Each entry is a comma-separated list of window classes (wm_class or app id) that are grouped automatically, e.g. "org.gnome.Calendar, org.gnome.Evolution".</description>
+    </key>
+    <key name="saved-groups" type="as">
+      <default>[]</default>
+      <summary>Saved groups</summary>
+      <description>Each entry is a comma-separated list of window classes. Opening one of them also opens the others and groups them.</description>
+    </key>
+    <key name="group-settings" type="as">
+      <default>[]</default>
+      <summary>Per-group settings and names</summary>
+    </key>
+    <key name="pinned" type="as">
+      <default>[]</default>
+      <summary>Pinned tabs</summary>
+      <description>Window classes (wm_class or app id) whose tabs are pinned: icon only, always first.</description>
+    </key>
+    <key name="compact" type="b">
+      <default>false</default>
+      <summary>Compact side bar</summary>
+      <description>The side bar shows icons only and opens over the window while hovered.</description>
+    </key>
+    <key name="bar-side" type="s">
+      <default>'top'</default>
+      <summary>Position of the tab bar</summary>
+      <description>top, left or right.</description>
+    </key>
+    <key name="sidebar-width" type="i">
+      <default>180</default>
+      <summary>Width of the side bar</summary>
+      <description>Narrow shows icons only, medium icon and title, wide shows a live preview.</description>
+    </key>
+    <key name="hover-preview" type="b">
+      <default>true</default>
+      <summary>Preview when hovering a tab</summary>
+    </key>
+    <key name="top-preview" type="b">
+      <default>false</default>
+      <summary>Permanent previews above the top bar</summary>
+    </key>
+    <key name="preview-width" type="i">
+      <default>160</default>
+      <summary>Width of the previews above the top bar</summary>
+    </key>
+  </schema>
+</schemalist>

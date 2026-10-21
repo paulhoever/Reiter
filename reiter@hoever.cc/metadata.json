@@ -1,0 +1,14 @@
+{
+  "uuid": "reiter@hoever.cc",
+  "name": "Reiter",
+  "description": "Bundles windows of different apps into one window with a tab bar, like WindowTabs on Windows. Drag a window onto another one's tab bar to group them.",
+  "shell-version": [
+    "50",
+    "51"
+  ],
+  "gettext-domain": "reiter@hoever.cc",
+  "url": "https://github.com/paulhoever/Reiter",
+  "version-name": "0.3.1",
+  "settings-schema": "org.gnome.shell.extensions.reiter",
+  "version": 5
+}
